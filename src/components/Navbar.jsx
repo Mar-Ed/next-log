@@ -10,13 +10,13 @@ function Navbar() {
       <ul className="flex gap-x-2">
           <>
             <li>
-              <Link href="/">Home</Link>
+              <Link href="/">Bienvenido</Link>
             </li>
             <li>
-              <Link href="/auth/login">Login</Link>
+              <Link href="/auth/login">Iniciar sesión</Link>
             </li>
             <li>
-              <Link href="/auth/register">Register</Link>
+              <Link href="/auth/register">Registrarte</Link>
             </li>
           </>
           <>
